@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0.25rem;
+    box-sizing: border-box;
+    text-align: center;   
+}
+
+#image {
+    border: 2px solid black;
+}
+
+.summary-border {
+    border: 1px solid black;
+}
+
+.instructions-border {
+    border: 1px solid black;
+}
+
+#title-1 {
+    text-transform: uppercase;
+}
+
+.title {
+    text-transform: uppercase;
+}
